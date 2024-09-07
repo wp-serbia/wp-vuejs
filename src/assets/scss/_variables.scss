@@ -1,6 +1,6 @@
 // Typography
-$heading-font-family: 'Nunito', sans-serif;
-$base-font-family: 'Open Sans', sans-serif;
+$heading-font-family: "Nunito", sans-serif;
+$base-font-family: "Open Sans", sans-serif;
 
 // Line height
 $base-line-height: 1.5;
@@ -10,12 +10,12 @@ $heading-line-height: 1.2;
 $header-font-size: 2rem;
 $medium-font-size: 1.5rem;
 $base-font-size: 1rem;
-$small-font-size: .75rem;
+$small-font-size: 0.75rem;
 
 // Other Sizes
 $base-border-radius: 3px;
 $base-spacing: $base-line-height * 1em;
-$small-spacing: $base-spacing / 2;
+$small-spacing: calc($base-spacing / 2);
 
 // Colors
 $white: #ffffff;
@@ -24,7 +24,7 @@ $gray: #333;
 $gray--medium: #999;
 $gray--mediumLight: lighten($gray--medium, 25%);
 $gray--light: #fafafa;
-$salmon: #E56B70;
+$salmon: #e56b70;
 
 // Font Colors
 $base-font-color: $gray;
