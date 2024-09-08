@@ -14,7 +14,7 @@ $small-font-size: 0.75rem;
 
 // Other Sizes
 $base-border-radius: 3px;
-$base-spacing: $base-line-height * 1em;
+$base-spacing: calc($base-line-height * 1em);
 $small-spacing: calc($base-spacing / 2);
 
 // Colors
