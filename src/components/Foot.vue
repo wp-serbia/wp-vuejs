@@ -11,13 +11,15 @@ export default {
 </script>
 
 <style scoped lang="scss">
+/*
 footer {
   text-align: center;
   padding: 1rem;
-  background: $gray--light;
+  background: #cccccc;
 }
 
 a {
   font-weight: bold;
 }
+*/
 </style>
