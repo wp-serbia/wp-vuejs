@@ -1,7 +1,7 @@
 {
   "name": "wp-vuejs",
-  "version": "2.0.0",
-  "author": "Momir Despotović <despotovic.m@joomla.in.rs> (https://Joomla.in.rs)",
+  "version": "2.0.1",
+  "author": "Momir Despotović <despotovic.m@gmail.com> (https://web-studio.dev)",
   "description": "A simple Vue blog template that displays posts from any WordPress REST API endpoint.",
   "scripts": {
     "serve": "vite",
@@ -21,7 +21,7 @@
     "REST",
     "API"
   ],
-  "homepage": "https://joomlaserbia.netlify.com",
+  "homepage": "https://wp-vue-js.netlify.com",
   "dependencies": {
     "mitt": "^3.0.1",
     "vue": "^3.5.0",

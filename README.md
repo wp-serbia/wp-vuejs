@@ -49,7 +49,7 @@ Manually reloading the page will kill this cache. It will not persist.
 
 If you'd like to share link to a version of WP Vue that uses a different endpoint than what's set via the code, you can pass that endpoint in as a URL parameter:
 
-Example: `https://joomlaserbia.netlify.com?endpoint=https://css-tricks.com/wp-json/wp/v2`
+Example: `https://wp-vue-app.netlify.com?endpoint=https://css-tricks.com/wp-json/wp/v2`
 
 Instead of using the default, this will use whatever endpoint you provide in the URL.
 
@@ -68,4 +68,4 @@ Please do! See the <CONTRIBUTING.md> for details.
 
 ## License
 
-MIT © [Joomla Serbia](https://joomlaserbia.info)
+MIT © [Web Studio](https://web-studio.dev)
